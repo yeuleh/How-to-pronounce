@@ -2,6 +2,9 @@
 >####[Ajax](https://en.wikipedia.org/wiki/Ajax_(programming))  
     /ˈeɪdʒæks/
     "ay-jax" 
+>####[App]()  
+    /æp/
+    ""     
 >####[AutoCAD](https://www.howtopronounce.com/autocad/)  
     //
     "auto-cat"
@@ -61,6 +64,9 @@
     "jif" 
 >####[Git](https://en.wikipedia.org/wiki/Git_(software))
     /ɡɪt/
+    "" 
+>####[GNU](https://https://en.wikipedia.org/wiki/GNU)
+    /ɡnuː/
     "" 
 >####[GUI](https://en.wikipedia.org/wiki/Graphical_user_interface)
     /ˈɡuːi/
@@ -192,9 +198,9 @@
 ***
 
 ### Y
->####C++  
-    [t͡sɛ plus plus]
-    "c plus plus" 
+>####[Yii](https://en.wikipedia.org/wiki/Yii)  
+    [jiː]
+    "Yee" 
 ***
 
 ### Z
