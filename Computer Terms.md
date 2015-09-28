@@ -65,7 +65,7 @@
 >####[Git](https://en.wikipedia.org/wiki/Git_(software))
     /ɡɪt/
     "" 
->####[GNU](https://https://en.wikipedia.org/wiki/GNU)
+>####[GNU](https://en.wikipedia.org/wiki/GNU)
     /ɡnuː/
     "" 
 >####[GUI](https://en.wikipedia.org/wiki/Graphical_user_interface)
